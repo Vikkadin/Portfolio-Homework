@@ -20,6 +20,10 @@
     padding-bottom: 40px;
     min-height: 600px !important;
   }
+
+  .post-link {
+    display: block;
+  }
 }
 
 :root {
